@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\HerenciaD1\HerenciaD1\bin\Debug\HerenciaD1.exe.config
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\HerenciaD1\HerenciaD1\bin\Debug\HerenciaD1.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\HerenciaD1\HerenciaD1\bin\Debug\HerenciaD1.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\HerenciaD1\HerenciaD1\obj\Debug\HerenciaD1.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\HerenciaD1\HerenciaD1\obj\Debug\HerenciaD1.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\HerenciaD1\HerenciaD1\obj\Debug\HerenciaD1.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\HerenciaD1\HerenciaD1\obj\Debug\HerenciaD1.pdb

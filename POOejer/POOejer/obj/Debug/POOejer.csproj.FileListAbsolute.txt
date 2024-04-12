@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\POOejer\POOejer\bin\Debug\POOejer.exe.config
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\POOejer\POOejer\bin\Debug\POOejer.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\POOejer\POOejer\bin\Debug\POOejer.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\POOejer\POOejer\obj\Debug\POOejer.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\POOejer\POOejer\obj\Debug\POOejer.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\POOejer\POOejer\obj\Debug\POOejer.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratorio 4\POOejer\POOejer\obj\Debug\POOejer.pdb
